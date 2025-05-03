@@ -1,0 +1,72 @@
+position,product_id,product_name,brand_name,mrp,discounted_price,stock_status,pack_info
+1,d39e7dad-3250-426f-bc58-f8db3058a61a,Too Yumm! Moong Dal | No Palm Oil | 35% Less Saturated Fat 190 g Combo,Too Yumm!,140,120,In Stock,190 g X 2
+2,8c0783af-06b6-4e1f-a88f-653a3c25525f,Too Yumm! K-Bomb Tom Yum | Ready to cook Instant Noodles | 100% Veg | Thai Noodles 80 g Combo,Too Yumm!,100,72,In Stock,80 g X 2
+3,7b2701ec-5bdb-4473-b102-9cc502b489c6,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian(82gms) & Diet Coke Can(300ml) Combo,Too Yumm!,100,91,In Stock,2 combo
+4,efa38c3c-408d-451d-bda2-765b2bb5b9c9,Too Yumm! Peri Peri Cashews,Too Yumm!,299,138,In Stock,120 g
+5,829e773b-4a95-4b31-a5fa-d2c453fcce31,Too Yumm! Aloo Bhujia | No Palm Oil | 35% Less Saturated Fat,Too Yumm!,70,65,In Stock,200 g
+6,91530c4b-b312-4697-a751-e96e05b8779c,Too Yumm! Karare Baked Munchy Masala Crisps,Too Yumm!,20,19,In Stock,70 g
+7,854d92af-bbdb-4a88-b910-ed52882c5e1f,Maggi Special Masala Spicy Yummy Instant Noodles,Too Yumm!,100,88,In Stock,280 g
+8,9f6ba666-1c14-4c9c-bb48-2e17a88ec1d7,Too Yumm! Bhoot Wafers - Spicy Chips with Ghost Pepper Flavour 44 g Combo,Too Yumm!,40,36,In Stock,44 g X 2
+9,bbeef31f-46a4-48cb-a94c-55ab098a99c6,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian(82gms) & Coca-Cola Soft Drink(750ml) Combo,Too Yumm!,105,96,In Stock,2 combo
+10,cc60c47e-5dcd-40ef-9861-655c131a53ef,Too Yumm! Karare Baked Munchy Masala Crisps(70gms) & Coca-Cola Soft Drink(750ml) Combo,Too Yumm!,65,64,In Stock,2 combo
+11,d40f7417-625a-44b4-9a2a-974f6a16ef2c,Too Yumm! Sour Cream & Onion Veggie Stix | Munching Snack | On-the-Go Munchies 75 g Combo,Too Yumm!,80,64,In Stock,75 g X 2
+12,8a79b193-05b7-471c-9549-eb8bc863c979,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian(82gms) & Thums Up Soft Drink(750ml) Combo,Too Yumm!,105,96,In Stock,2 combo
+13,80293554-96d8-40ff-adf1-f4e959e3a412,Too Yumm! Karare Baked Munchy Masala Crisps(70gms) & Veeba Cheese And Jalapeno Dip(300gms) Combo,Too Yumm!,194,184,In Stock,2 combo
+14,21ce6e54-da65-4428-a25e-c1c31bcc113f,Too Yumm! Bikaneri Bhujia | No Palm Oil | 35% Less Saturated Fat,Too Yumm!,70,65,In Stock,190 g
+15,3e417329-e6ca-4c1a-962b-4f2657814c1f,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian 82 g Combo,Too Yumm!,180,138,In Stock,82 g X 3
+16,8dc6080c-7848-4c85-83f1-adb35e14f083,Too Yumm! All in One | No Palm Oil | 35% Less Saturated Fat 200 g Combo,Too Yumm!,130,110,In Stock,200 g X 2
+17,ea58c944-5204-4529-a74f-8cda7472f0f0,Too Yumm! Bhoot Wafers - Spicy Chips with Ghost Pepper Flavour,Too Yumm!,60,51,In Stock,82 g
+18,8bc59b3a-0f37-4cb7-9cae-4c24eadf055c,Kurkure Yummy PuffCorn Yummy Cheese Chips 52 g Combo,Too Yumm!,60,54,In Stock,52 g X 3
+19,4f909244-1b50-4e19-8433-97c63bf00610,Too Yumm! Karare Baked Munchy Masala Crisps 70 g Combo,Too Yumm!,40,36,In Stock,70 g X 2
+20,530a4164-f4ee-4abb-91e9-f369bedfe905,Kurkure Yummy Puffcorn Yummy Cheese Chips(52gms) & Parle Hide & Seek Chocolate Biscuits(100gms) Combo,Too Yumm!,50,48,In Stock,2 combo
+21,61625349-6981-425d-bb5c-0cfa0fa3e997,Too Yumm K-Bomb Ramen Mi Goreng Instant Noodles | Sweet n Spicy Flavour | Korean Veg,Too Yumm!,50,39,In Stock,80 g
+22,a64e6a6d-0e61-4969-be54-96bf738660ac,"Too Yumm! Noodle Masala Karare | Munching Snack For Movies, Games, Parties & More 67 g Combo",Too Yumm!,60,48,In Stock,67 g X 3
+23,9c237966-5d3e-43ec-acc1-2f3bf41ff8b8,Too Yumm - Potato Chips Kashmiri Chilli,Too Yumm!,50,44,In Stock,82 g
+24,06be1c59-7edf-46ef-8b46-2d22c397ab1a,Too Yumm! All in One | No Palm Oil | 35% Less Saturated Fat,Too Yumm!,65,60,In Stock,200 g
+25,20165f18-a1d6-4060-bf13-abb068b1531d,Too Yumm! Bikaneri Bhujia | No Palm Oil | 35% Less Saturated Fat 190 g Combo,Too Yumm!,140,120,In Stock,190 g X 2
+26,26682525-2ddd-4676-bf0f-22e7ceba73f0,Too Yumm! Sour Cream & Onion Veggie Stix | Munching Snack | On-the-Go Munchies 75 g Combo,Too Yumm!,120,90,In Stock,75 g X 3
+27,b40a9042-21d8-4955-b068-04ee89b12221,Too Yumm - Potato Chips Classic Salted,Too Yumm!,50,44,In Stock,82 g
+28,3e417329-e6ca-4c1a-962b-4f2657814c1f,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian 82 g Combo,Too Yumm!,180,138,In Stock,82 g X 3
+29,e1213cee-af71-4ad1-abe2-12be818ea46e,"Too Yumm! Noodle Masala Karare | Munching Snack For Movies, Games, Parties & More 67 g Combo",Too Yumm!,40,36,In Stock,67 g X 2
+30,30cd0832-145a-49e2-91aa-622f854c04d3,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian 82 g Combo,Too Yumm!,120,96,In Stock,82 g X 2
+31,8fbf73ee-d317-4ac9-9ada-10f5c741ab44,Too Yumm! Karare Baked Munchy Masala Crisps(70gms) & Diet Coke Can(300ml) Combo,Too Yumm!,60,59,In Stock,2 combo
+32,91530c4b-b312-4697-a751-e96e05b8779c,Too Yumm! Karare Baked Munchy Masala Crisps,Too Yumm!,20,19,In Stock,70 g
+33,d39e7dad-3250-426f-bc58-f8db3058a61a,Too Yumm! Moong Dal | No Palm Oil | 35% Less Saturated Fat 190 g Combo,Too Yumm!,140,120,In Stock,190 g X 2
+34,2d08a074-5841-4b7e-a8e6-a18d64098ee7,Too Yumm - Rings Tomato Twist,Too Yumm!,60,42,In Stock,70 g
+35,efa38c3c-408d-451d-bda2-765b2bb5b9c9,Too Yumm! Peri Peri Cashews,Too Yumm!,299,138,In Stock,120 g
+36,80293554-96d8-40ff-adf1-f4e959e3a412,Too Yumm! Karare Baked Munchy Masala Crisps(70gms) & Veeba Cheese And Jalapeno Dip(300gms) Combo,Too Yumm!,194,184,In Stock,2 combo
+37,80293554-96d8-40ff-adf1-f4e959e3a412,Too Yumm! Karare Baked Munchy Masala Crisps(70gms) & Veeba Cheese And Jalapeno Dip(300gms) Combo,Too Yumm!,194,184,In Stock,2 combo
+38,efa38c3c-408d-451d-bda2-765b2bb5b9c9,Too Yumm! Peri Peri Cashews,Too Yumm!,299,138,In Stock,120 g
+39,b6b78915-e982-4a0a-9df6-bfbee7c9c253,Kurkure Playz Puffcorn Yummy Cheese,Too Yumm!,50,35,In Stock,80 g
+40,b40a9042-21d8-4955-b068-04ee89b12221,Too Yumm - Potato Chips Classic Salted,Too Yumm!,50,44,In Stock,82 g
+41,f1d9ce7c-43e4-4433-9bd1-710f07ad674c,Too Yumm! Bhoot Wafers - Spicy Chips with Ghost Pepper Flavour,Too Yumm!,20,19,In Stock,44 g
+42,2d08a074-5841-4b7e-a8e6-a18d64098ee7,Too Yumm - Rings Tomato Twist,Too Yumm!,60,42,In Stock,70 g
+43,8dc6080c-7848-4c85-83f1-adb35e14f083,Too Yumm! All in One | No Palm Oil | 35% Less Saturated Fat 200 g Combo,Too Yumm!,130,110,In Stock,200 g X 2
+44,7b2701ec-5bdb-4473-b102-9cc502b489c6,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian(82gms) & Diet Coke Can(300ml) Combo,Too Yumm!,100,91,In Stock,2 combo
+45,bbeef31f-46a4-48cb-a94c-55ab098a99c6,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian(82gms) & Coca-Cola Soft Drink(750ml) Combo,Too Yumm!,105,96,In Stock,2 combo
+46,d698caa1-8703-4b3c-9e1e-928c7ae4554f,"Too Yumm! Chilli Achari Karare | Munching Snack For Movies, Games, Parties & More",Too Yumm!,20,19,In Stock,70 g
+47,deb1af03-9942-41bb-a2df-8431efe1f797,Too Yumm! Sour Cream & Onion Veggie Stix | Munching Snack | On-The-Go Munchies(75gms) & Veeba Cheese And Jalapeno Dip(300gms) Combo,Too Yumm!,214,200,In Stock,2 combo
+48,ea58c944-5204-4529-a74f-8cda7472f0f0,Too Yumm! Bhoot Wafers - Spicy Chips with Ghost Pepper Flavour,Too Yumm!,60,51,In Stock,82 g
+49,2df52ada-76cb-412f-8361-b6e4abc913fa,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian(82gms) & Veeba Cheese And Jalapeno Dip(300gms) Combo,Too Yumm!,234,216,In Stock,2 combo
+50,d1a48b61-a23a-4ee7-be2b-9ef7ee6fe8f6,Kurkure Yummy PuffCorn Yummy Cheese Chips 55 gms & Doritos Nacho Chips - Cheese Flavour 44 gms Combo,Too Yumm!,40,40,In Stock,2 Combo
+51,8c0783af-06b6-4e1f-a88f-653a3c25525f,Too Yumm! K-Bomb Tom Yum | Ready to cook Instant Noodles | 100% Veg | Thai Noodles 80 g Combo,Too Yumm!,100,72,In Stock,80 g X 2
+52,9c237966-5d3e-43ec-acc1-2f3bf41ff8b8,Too Yumm - Potato Chips Kashmiri Chilli,Too Yumm!,50,44,In Stock,82 g
+53,1d6cfcfc-ceb2-4881-b51b-f4b54ab1b2f2,Too Yumm! Salted Peanuts | No Palm Oil | Protein Goodness,Too Yumm!,70,65,In Stock,180 g
+54,21ce6e54-da65-4428-a25e-c1c31bcc113f,Too Yumm! Bikaneri Bhujia | No Palm Oil | 35% Less Saturated Fat,Too Yumm!,70,65,In Stock,190 g
+55,deb1af03-9942-41bb-a2df-8431efe1f797,Too Yumm! Sour Cream & Onion Veggie Stix | Munching Snack | On-The-Go Munchies(75gms) & Veeba Cheese And Jalapeno Dip(300gms) Combo,Too Yumm!,214,200,In Stock,2 combo
+56,7ae2021b-9b56-4d47-9ce4-defeefdedabb,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian,Too Yumm!,60,51,In Stock,82 g
+57,bf6b23d2-21b4-490b-a305-3f5af9db6e7d,Too Yumm! Aloo Chaat Potato Stix | Munching Snack | On-the-Go Munchies,Too Yumm!,60,42,In Stock,70 g
+58,854d92af-bbdb-4a88-b910-ed52882c5e1f,Maggi Special Masala Spicy Yummy Instant Noodles,Too Yumm!,100,88,In Stock,280 g
+59,b34204c2-cf0e-4417-a92b-00a1025adf8b,Too Yumm - Potato Chips Kashmiri Chilli(82gms) & Coca-Cola Soft Drink(750ml) Combo,Too Yumm!,95,89,In Stock,2 combo
+60,bbeef31f-46a4-48cb-a94c-55ab098a99c6,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian(82gms) & Coca-Cola Soft Drink(750ml) Combo,Too Yumm!,105,96,In Stock,2 combo
+61,121b9c6f-aae0-4064-b859-c40bfc0de83c,Too Yumm! Karare Baked Munchy Masala Crisps(70gms) & Thums Up Soft Drink(750ml) Combo,Too Yumm!,65,64,In Stock,2 combo
+62,789bf103-065a-4002-98c0-d3d09841dc09,"Too Yumm! Noodle Masala Karare | Munching Snack For Movies, Games, Parties & More",Too Yumm!,20,19,In Stock,67 g
+63,7f02009b-1738-4511-a3ac-5dcc1624da0e,Too Yumm - Potato Chips Kashmiri Chilli(82gms) & Veeba Cheese And Jalapeno Dip(300gms) Combo,Too Yumm!,224,209,In Stock,2 combo
+64,bfae2e4f-e1d6-4d1c-b3ec-6ef8dd49026c,Too Yumm - Potato Chips Kashmiri Chilli(82gms) & Diet Coke Can(300ml) Combo,Too Yumm!,90,84,In Stock,2 combo
+65,e1883b62-e424-4eab-81c1-41abb93d409f,Too Yumm! Sour Cream & Onion Veggie Stix | Munching Snack | On-The-Go Munchies(75gms) & Coca-Cola Soft Drink(750ml) Combo,Too Yumm!,85,80,In Stock,2 combo
+66,ea58c944-5204-4529-a74f-8cda7472f0f0,Too Yumm! Bhoot Wafers - Spicy Chips with Ghost Pepper Flavour,Too Yumm!,60,51,In Stock,82 g
+67,2d08a074-5841-4b7e-a8e6-a18d64098ee7,Too Yumm - Rings Tomato Twist,Too Yumm!,60,42,In Stock,70 g
+68,468408b2-8a2a-4da8-8ad8-fc5af03b32b0,Too Yumm! Sour Cream & Onion Veggie Stix | Munching Snack | On-The-Go Munchies(75gms) & Diet Coke Can(300ml) Combo,Too Yumm!,80,75,In Stock,2 combo
+69,7b2701ec-5bdb-4473-b102-9cc502b489c6,Too Yumm! Bhoot Chips Created With Naagin Hot Sauce | Tasty & Spicy Potato Chips | 100% Vegetarian(82gms) & Diet Coke Can(300ml) Combo,Too Yumm!,100,91,In Stock,2 combo
+70,9c237966-5d3e-43ec-acc1-2f3bf41ff8b8,Too Yumm - Potato Chips Kashmiri Chilli,Too Yumm!,50,44,In Stock,82 g
+71,ca29aa73-80a7-4553-94fb-36c5f3dce414,Too Yumm! Sour Cream & Onion Veggie Stix | Munching Snack | On-The-Go Munchies(75gms) & Thums Up Soft Drink(750ml) Combo,Too Yumm!,85,80,In Stock,2 combo
